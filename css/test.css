@@ -1,0 +1,11 @@
+.imglist{
+  min-width: 1300px;
+}
+img{
+  width: 200px;
+  position: absolute;
+  padding:5px;
+  margin: 5px;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px gray;
+}
